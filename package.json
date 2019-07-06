@@ -1,0 +1,27 @@
+{
+  "name": "Makemoney",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "react": "16.6.1",
+    "react-native": "0.57.5",
+    "react-native-call-log": "^1.0.6",
+    "react-native-local-notifications": "^2.0.0",
+    "react-native-modal-datetime-picker": "^7.4.2",
+    "react-native-paytm": "^1.0.4"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.49.2",
+    "react-test-renderer": "16.6.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
