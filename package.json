@@ -9,7 +9,7 @@
   "dependencies": {
     "moment": "^2.24.0",
     "react": "16.6.1",
-    "react-native": "0.57.5",
+    "react-native": "0.70.2",
     "react-native-call-log": "^1.0.6",
     "react-native-local-notifications": "^2.0.0",
     "react-native-modal-datetime-picker": "^7.4.2",
